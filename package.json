@@ -1,0 +1,25 @@
+{
+  "name": "Hub_Scuola_DRM_Remover",
+  "version": "1.0.0",
+  "description": "DRM Protection Removal and Downloader for Hub Scuola Platform",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tecnologica-Mente/Hub_Scuola_DRM_Remover.git"
+  },
+  "author": "Stefano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tecnologica-Mente/Hub_Scuola_DRM_Remover/issues"
+  },
+  "homepage": "https://github.com/Tecnologica-Mente/Hub_Scuola_DRM_Remover#readme",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.6",
+    "prompt-sync": "^4.2.0",
+    "yargs": "^17.5.1"
+  }
+}
